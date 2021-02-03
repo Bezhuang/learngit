@@ -1,4 +1,4 @@
-根据 Git 入门教程试验的 Git 交互操作
+根据 Git 入门教程试验的 Git 及Github 试交互操作
 
 https://www.liaoxuefeng.com/wiki/896043488029600
 
